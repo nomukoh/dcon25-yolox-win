@@ -1,5 +1,7 @@
 # 自動車認識 YOLOX-s (Windows 開発用)
 
+本プログラムは、 DCON2025 で自動車の認識を YOLOX-s で行うために使用したものです。
+
 ## 著作権表示および引用元
 
 このリポジトリのコードは、[GitHubリポジトリ](https://github.com/Megvii-BaseDetection/YOLOX)から引用したものに変更を加えたものです。また、[zennの記事](https://zenn.dev/opamp/articles/d3878b189ea256)を参考に開発されています。  
