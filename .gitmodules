@@ -1,0 +1,3 @@
+[submodule "YOLOX_jetson"]
+	path = YOLOX_jetson
+	url = https://github.com/nomukoh/dcon25-yolox-jetson.git
